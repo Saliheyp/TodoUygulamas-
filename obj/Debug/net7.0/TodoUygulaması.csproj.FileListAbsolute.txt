@@ -1,0 +1,15 @@
+D:\Patika\TodoUygulaması\bin\Debug\net7.0\TodoUygulaması.exe
+D:\Patika\TodoUygulaması\bin\Debug\net7.0\TodoUygulaması.deps.json
+D:\Patika\TodoUygulaması\bin\Debug\net7.0\TodoUygulaması.runtimeconfig.json
+D:\Patika\TodoUygulaması\bin\Debug\net7.0\TodoUygulaması.dll
+D:\Patika\TodoUygulaması\bin\Debug\net7.0\TodoUygulaması.pdb
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.csproj.AssemblyReference.cache
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.AssemblyInfoInputs.cache
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.AssemblyInfo.cs
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.csproj.CoreCompileInputs.cache
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.dll
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\refint\TodoUygulaması.dll
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.pdb
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\TodoUygulaması.genruntimeconfig.cache
+D:\Patika\TodoUygulaması\obj\Debug\net7.0\ref\TodoUygulaması.dll
